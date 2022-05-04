@@ -15,7 +15,11 @@ https://github.com/phosphor-icons/phosphor-home
 Popover-HeadlessUI
 https://headlessui.dev/react/popover
 
-Segue o melhor guia de instalação do Node que me deparei até hoje, obrigado Rocketseat!!
+
+
+
+
+Segue o melhor guia de instalação do Node que me deparei até hoje, obrigado **Rocketseat(https://www.rocketseat.com.br/)**!!
 
 Faala Dev!
 
