@@ -19,7 +19,7 @@ https://headlessui.dev/react/popover
 
 
 
-Segue o melhor guia de instalação do Node que me deparei até hoje, obrigado **Rocketseat(https://www.rocketseat.com.br/)**!!
+Segue o melhor guia de instalação do Node que me deparei até hoje, obrigado **Rocketseat**!!
 
 Faala Dev!
 
